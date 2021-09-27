@@ -1,0 +1,26 @@
+.products{
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: 1px 1.5px 10px 2px rgb(180, 175, 175);
+    border-radius: 10px;
+}
+.products img:hover{
+    transition: all 1s;
+   transform: scale(1.05);
+}
+.productDetails{
+    text-align: start;
+    line-height: 7px;
+}
+.productDetails h4{
+    color: indigo;
+}
+.rating{
+    color: goldenrod;
+}
+.button{
+    background-color: goldenrod;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+}

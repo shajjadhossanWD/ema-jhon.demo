@@ -1,0 +1,18 @@
+.cart{
+    box-shadow: 1px 2px 10px 1px lightgrey;
+    padding: 20px;
+    position: fixed;
+    border-radius: 5px;
+}
+.cart_head{
+    margin-bottom: 40px;
+    color: indigo;
+}
+.pricing{
+    text-align: start;
+    line-height: 15px;
+}
+.pricing p span{
+    color: rgb(204, 150, 12);
+    margin-left: 20px;
+}
